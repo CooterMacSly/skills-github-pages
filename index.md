@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Guinness and Where to find it!
 ---
