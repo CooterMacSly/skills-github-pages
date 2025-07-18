@@ -1,1 +1,4 @@
 theme: minima
+title: {{ David Bogue }}'s personal blog
+description: This is where I find and list the places to find Black-Gold
+author: {{ login }}
